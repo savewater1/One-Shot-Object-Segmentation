@@ -1,0 +1,3 @@
+This code is taken from [https://github.com/Yuliang-Zou/tf_fcn](https://github.com/Yuliang-Zou/tf_fcn). Complete credit for FCN code and pretrained weights for FCN32 model goes to Yuliang Zou.
+
+The pretrained weights for FCN32 can be downloaded from [https://drive.google.com/file/d/0B3vJudZqxciYVWZfbXdybzFhWDA/view](https://drive.google.com/file/d/0B3vJudZqxciYVWZfbXdybzFhWDA/view). This is the same link as mentioned on Yuliang's GitHub. 
